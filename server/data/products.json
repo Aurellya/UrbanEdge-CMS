@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Janinge",
+    "description": "bangku bar, putih, 76 cm",
+    "price": 2295000,
+    "stock": 30,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/280/0728068_PE736041_S4.jpg",
+    "categoryId": 3,
+    "authorId": 1,
+    "rating": 5,
+    "totalReviews": 10
+  },
+  {
+    "name": "Kallax",
+    "description": "unit rak, putih, 77x147 cm",
+    "price": 1299000,
+    "stock": 12,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/447/0644757_PE702939_S4.jpg",
+    "categoryId": 1,
+    "authorId": 1,
+    "rating": 4,
+    "totalReviews": 12
+  },
+  {
+    "name": "Hemnes",
+    "description": "Meja tv, warna putih/cokelat muda, 148x47x57 cm",
+    "price": 3999000,
+    "stock": 8,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/833/0583377_PE671187_S4.jpg",
+    "categoryId": 2,
+    "authorId": 2,
+    "rating": 5,
+    "totalReviews": 41
+  },
+  {
+    "name": "Jessheim",
+    "description": "kasur futon, 80x195 cm",
+    "price": 499000,
+    "stock": 33,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/602/0760243_PE754399_S4.jpg",
+    "categoryId": 4,
+    "authorId": 3,
+    "rating": 5,
+    "totalReviews": 17
+  },
+  {
+    "name": "Gursken",
+    "description": "rangka tmpt tidur dg kepala tpt tdr, krem muda/Luröy, 140x200 cm",
+    "price": 1899000,
+    "stock": 19,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/465/0946599_PE798165_S4.jpg",
+    "categoryId": 5,
+    "authorId": 4,
+    "rating": 4,
+    "totalReviews": 6
+  },
+  {
+    "name": "Klippan",
+    "description": "Sofa 2 dudukan, vissle abu-abu",
+    "price": 3195000,
+    "stock": 4,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/399/0239990_PE379591_S4.jpg",
+    "categoryId": 6,
+    "authorId": 4,
+    "rating": 5,
+    "totalReviews": 10
+  },
+  {
+    "name": "Vittsjö",
+    "description": "Unit rak , hitam-cokelat/kaca, 100x93 cm",
+    "price": 1299000,
+    "stock": 32,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/675/0767557_PE754140_S4.jpg",
+    "categoryId": 1,
+    "authorId": 1,
+    "rating": 5,
+    "totalReviews": 22
+  },
+  {
+    "name": "Havsta",
+    "description": "Unit rak, putih, 81x35x123 cm",
+    "price": 3295000,
+    "stock": 6,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/037/0703718_PE724821_S4.jpg",
+    "categoryId": 1,
+    "authorId": 2,
+    "rating": 5,
+    "totalReviews": 12
+  },
+  {
+    "name": "Askholmen",
+    "description": "Meja dinding+2 kursi lipat, l.ruang, diwarnai cokelat muda/kuddarna krem",
+    "price": 1709000,
+    "stock": 9,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/669/0666958_PE713778_S4.jpg",
+    "categoryId": 3,
+    "authorId": 3,
+    "rating": 4,
+    "totalReviews": 10
+  },
+  {
+    "name": "Bengterik",
+    "description": "Bangku bar, putih, 63-74 cm",
+    "price": 995000,
+    "stock": 21,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/463/0546393_PE656143_S4.jpg",
+    "categoryId": 3,
+    "authorId": 4,
+    "rating": 4,
+    "totalReviews": 19
+  },
+  {
+    "name": "Fjällbo",
+    "description": "Unit rak , hitam, 51x95 cm",
+    "price": 899000,
+    "stock": 10,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/950/0795065_PE765849_S4.jpg",
+    "categoryId": 1,
+    "authorId": 3,
+    "rating": 5,
+    "totalReviews": 30
+  },
+  {
+    "name": "Brimnes",
+    "description": "Kombinasi penyimpanan tv, hitam, 258x41x190 cm",
+    "price": 5097000,
+    "stock": 25,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/241/0724173_PE734350_S4.jpg",
+    "categoryId": 2,
+    "authorId": 4,
+    "rating": 5,
+    "totalReviews": 4
+  },
+  {
+    "name": "Svenarum",
+    "description": "Meja tv dgn pintu geser, bambu/putih, 170x35x54 cm",
+    "price": 2799000,
+    "stock": 14,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/455/0945534_PE797717_S4.jpg",
+    "categoryId": 2,
+    "authorId": 2,
+    "rating": 4,
+    "totalReviews": 11
+  },
+  {
+    "name": "Hemlingby",
+    "description": "Sofa 2 dudukan, knisa abu-abu tua",
+    "price": 1795000,
+    "stock": 3,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/288/0728848_PE736539_S4.jpg",
+    "categoryId": 6,
+    "authorId": 1,
+    "rating": 4,
+    "totalReviews": 7
+  },
+  {
+    "name": "Älvsta",
+    "description": "Kursi, buatan tangan rotan/sefast dilapisi krom",
+    "price": 1195000,
+    "stock": 28,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/225/1122532_PE874614_S4.jpg",
+    "categoryId": 3,
+    "authorId": 1,
+    "rating": 5,
+    "totalReviews": 33
+  },
+  {
+    "name": "Baltsar",
+    "description": "Kursi putar, putih",
+    "price": 2995000,
+    "stock": 5,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/186/1118662_PE873208_S4.jpg",
+    "categoryId": 3,
+    "authorId": 2,
+    "rating": 5,
+    "totalReviews": 43
+  },
+  {
+    "name": "Bergmund",
+    "description": "Kursi bar dengan sandaran, putih/fågelfors aneka warna, 75 cm",
+    "price": 1975000,
+    "stock": 7,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/410/0941016_PE795278_S4.jpg",
+    "categoryId": 3,
+    "authorId": 1,
+    "rating": 5,
+    "totalReviews": 19
+  },
+  {
+    "name": "Luröy",
+    "description": "Dasar tempat tidur berpalang, 90x200 cm",
+    "price": 500000,
+    "stock": 11,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/683/0268301_PE406268_S4.jpg",
+    "categoryId": 4,
+    "authorId": 3,
+    "rating": 4,
+    "totalReviews": 8
+  },
+  {
+    "name": "Kivik",
+    "description": "Sofa 3 dudukan, tibbleby krem/abu-abu",
+    "price": 7295000,
+    "stock": 22,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/561/1056144_PE848277_S4.jpg",
+    "categoryId": 6,
+    "authorId": 4,
+    "rating": 5,
+    "totalReviews": 21
+  },
+  {
+    "name": "Lönset",
+    "description": "Dasar tempat tidur berpalang, 180x200 cm",
+    "price": 1800000,
+    "stock": 16,
+    "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/897/1089733_PE861686_S4.jpg",
+    "categoryId": 4,
+    "authorId": 2,
+    "rating": 3,
+    "totalReviews": 3
+  }
+]

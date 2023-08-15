@@ -1,0 +1,34 @@
+[
+  {
+    "username": "Alferin Candra",
+    "email": "al_chand@gmail.com",
+    "password": "password123",
+    "role": "Staff",
+    "phoneNumber": "081234567890",
+    "address": "Green Office Park 1 Lt 6, Jl. BSD Raya Barat, Tangerang, Banten 15345"
+  },
+  {
+    "username": "Putri Indah",
+    "email": "putri_indah@gmail.com",
+    "password": "password123",
+    "role": "Staff",
+    "phoneNumber": "081234567892",
+    "address": "Green Office Park 1 Lt 6, Jl. BSD Raya Barat, Tangerang, Banten 15345"
+  },
+  {
+    "username": "Joni Prasanto",
+    "email": "joni_prasanto@gmail.com",
+    "password": "password123",
+    "role": "Staff",
+    "phoneNumber": "081234567893",
+    "address": "Green Office Park 1 Lt 6, Jl. BSD Raya Barat, Tangerang, Banten 15345"
+  },
+  {
+    "username": "Aurellya",
+    "email": "aurellya@gmail.com",
+    "password": "password123",
+    "role": "Admin",
+    "phoneNumber": "081234567894",
+    "address": "Green Office Park 1 Lt 6, Jl. BSD Raya Barat, Tangerang, Banten 15345"
+  }
+]

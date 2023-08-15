@@ -1,0 +1,16 @@
+[
+  { "CustomerId": 1, "ProductId": 1 },
+  { "CustomerId": 2, "ProductId": 1 },
+  { "CustomerId": 3, "ProductId": 1 },
+  { "CustomerId": 4, "ProductId": 1 },
+  { "CustomerId": 5, "ProductId": 1 },
+  { "CustomerId": 6, "ProductId": 1 },
+  { "CustomerId": 3, "ProductId": 2 },
+  { "CustomerId": 4, "ProductId": 2 },
+  { "CustomerId": 3, "ProductId": 3 },
+  { "CustomerId": 4, "ProductId": 4 },
+  { "CustomerId": 5, "ProductId": 4 },
+  { "CustomerId": 6, "ProductId": 4 },
+  { "CustomerId": 6, "ProductId": 5 },
+  { "CustomerId": 6, "ProductId": 6 }
+]

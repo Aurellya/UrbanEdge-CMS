@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.parallax {
+  @apply fixed top-0 z-[-1] w-full h-full min-h-screen opacity-[0.04];
+  background-image: url('../assets/bg.png');
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.errorClass {
+  @apply !border-red-500 !mb-2;
+}
+
+.errorMsg {
+  @apply !text-red-500;
+}
+
+.formDivCenter {
+  @apply mr-auto ml-auto w-full;
+}
+
+.formDivCenter > .formTitle,
+.titleDivCenter {
+  @apply w-full max-w-md mr-auto ml-auto mt-4 mb-1 text-center;
+}
+
+.formDivCenter > .formTitle > .title,
+.titleDivCenter > .title {
+  @apply text-gray-800 block text-3xl font-extrabold;
+}
+
+.formDivCenter > .formBody {
+  @apply w-full max-w-md mr-auto ml-auto mt-4;
+}
+
+.navLink {
+  @apply ml-1 text-[#00C9A7] cursor-pointer hover:opacity-80;
+}
