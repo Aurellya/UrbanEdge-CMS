@@ -11,6 +11,7 @@
   - PostgreSQL
   - Express.js
   - Google Auth
+  - Jest
 
 <hr/>
 
